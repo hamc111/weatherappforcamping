@@ -92,6 +92,7 @@ a:visited{
     grid-area: food;
     background:white;
     padding: 20px;
+    color: black;
 }
 .movies{
     border: 1px solid black;
